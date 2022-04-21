@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/chemgraph/dqn/py/Contrib/NIBRSubstructureFilters/SubstructureFilter_HitTriaging_wPubChemExamples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/Contrib/NIBRSubstructureFilters/examples/chembl24_structs_randomtestSample_100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/Contrib/NIBRSubstructureFilters/examples/chembl24_structs_randomtestSample_100_out.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/rdkit/Contrib/NIBRSubstructureFilters/SubstructureFilter_HitTriaging_wPubChemExamples.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/rdkit/rdkit/Chem/test_data/QED/NCI_200_qed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/rdkit/rdkit/Chem/test_data/QED/NCI_5000_qed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/chemgraph/dqn/py/rdkit/rdkit/Chem/test_data/QED/Regression_qed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/plot/target_sas_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
